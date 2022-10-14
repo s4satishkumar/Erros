@@ -1,0 +1,16 @@
+header{
+  background-color:blueviolet;
+}
+/* body{
+  background-color:cadetblue;
+} */
+body{
+background: red;
+}
+#page2{
+background: blue !important;
+}
+div{
+  width:50px;
+  height:80px;
+}
